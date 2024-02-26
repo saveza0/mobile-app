@@ -1,5 +1,7 @@
 # test1
 
+# flutter & git hub
+เริ่มใช้ flutter และ git hub
 A new Flutter project.
 
 ## Getting Started
